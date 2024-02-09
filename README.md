@@ -1,2 +1,3 @@
 # VAE
-A toy example of VAEs.
+
+A simple application of conditional Variational autoencoders.
